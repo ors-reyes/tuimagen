@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="284.1px" height="284.1px" viewBox="0 0 284.1 284.1" style="enable-background:new 0 0 284.1 284.1;" xml:space="preserve"
+	>
+<style type="text/css">
+<![CDATA[
+	.st0{
+		fill-rule:evenodd;clip-rule:evenodd;		
+		fill: url(#gradicon);
+		stroke:#FFF;
+		stroke-width:0.5;
+	}
+]]>
+</style>
+<linearGradient id="gradicon" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(45)">
+	<stop offset="10%" style="stop-color:rgb(255,170,120);stop-opacity:1" />
+	<stop offset="25%" style="stop-color:rgb(255,170,120);stop-opacity:1" />
+	<stop offset="50%" style="stop-color:rgb(255,102,0);stop-opacity:1" />
+	<stop offset="65%" style="stop-color:rgb(255,170,120);stop-opacity:1" />
+	<stop offset="100%" style="stop-color:rgb(255,102,0);stop-opacity:1" />
+</linearGradient>
+<rect y="17.1" class="st0" width="25.2" height="15.1"/>
+<rect x="256.9" y="17.1" class="st0" width="25.2" height="15.1"/>
+<rect x="65.5" y="17.1" class="st0" width="151.1" height="15.1"/>
+<path class="st0" d="M55.4,12.1C55.4,6.5,50.9,2,45.3,2S35.3,6.5,35.3,12.1v45.3h20.2V12.1z"/>
+<path class="st0" d="M200.8,188.3l-6.3,6.3v28.9c0,6.2-2.2,11.5-6.6,15.9c-4.4,4.4-9.7,6.6-15.9,6.6H76.7c-6.2,0-11.6-2.3-15.9-6.6
+	c-4.4-4.4-6.6-9.7-6.6-15.9v-95.3c0-6.2,2.3-11.5,6.6-15.9c4.4-4.4,9.7-6.6,15.9-6.6H172c2.1,0,4.1,0.3,6.1,0.8l4.9-4.9
+	c-3.5-1.5-7.2-2.2-11-2.2H76.7c-8,0-14.7,2.8-20.4,8.5c-5.7,5.7-8.5,12.4-8.5,20.4v95.3c0,8,2.8,14.7,8.5,20.4
+	c5.7,5.7,12.4,8.5,20.4,8.5H172c8,0,14.7-2.8,20.4-8.5c5.7-5.7,8.5-12.4,8.5-20.4V188.3z M228.5,120.9l-12.6-12.6
+	c-1-1-2.1-1.5-3.6-1.5c-1.4,0-2.5,0.5-3.6,1.5l-77.1,77.1l-33.1-33.1c-1-1-2.1-1.5-3.6-1.5c-1.4,0-2.5,0.5-3.6,1.5l-12.6,12.6
+	c-1,1-1.5,2.1-1.5,3.6s0.5,2.5,1.5,3.6l49.3,49.3c1,1,2.1,1.5,3.6,1.5c1.4,0,2.5-0.5,3.6-1.5l93.3-93.3c1-1,1.5-2.1,1.5-3.6
+	C230.1,123,229.6,121.9,228.5,120.9z M231.5,117.9l-12.6-12.6c-1.8-1.8-4-2.8-6.5-2.8c-2.5,0-4.7,0.9-6.5,2.8l-74.1,74.1l-30.1-30.1
+	c-1.8-1.8-4-2.8-6.5-2.8c-2.5,0-4.7,0.9-6.5,2.8l-12.6,12.6c-1.8,1.8-2.8,4-2.8,6.5s0.9,4.7,2.8,6.5l49.3,49.3
+	c1.8,1.8,4,2.8,6.5,2.8c2.5,0,4.7-0.9,6.5-2.8l93.3-93.3c1.8-1.8,2.8-4,2.8-6.5S233.3,119.8,231.5,117.9z M15.1,284.1H267
+	c2.8,0,5-2.3,5-5V72.5c0-2.8-2.3-5-5-5H15.1c-2.8,0-5,2.3-5,5v206.6C10.1,281.9,12.3,284.1,15.1,284.1z"/>
+<path class="st0" d="M246.9,12.1c0-5.6-4.5-10.1-10.1-10.1s-10.1,4.5-10.1,10.1v45.3h20.2V12.1z"/>
+</svg>

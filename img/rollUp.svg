@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="146.6px" height="146.6px" viewBox="0 0 146.6 146.6" style="enable-background:new 0 0 146.6 146.6;" xml:space="preserve"
+	>
+<style type="text/css">
+<![CDATA[	
+	.rollupLa{
+		fill:none;
+		stroke:#000000;
+		stroke-width:0.1;
+		stroke-dasharray:25px;
+		stroke-dashoffset:0;
+		animation: rollupLa 1s forwards ;
+	}
+	.rollupLb{
+		fill:none;
+		stroke:#000000;
+		stroke-width:0.1;
+		stroke-dasharray:20px;
+		stroke-dashoffset:0;
+		animation: rollupLb 1s forwards ;
+	}
+	.rollupLc{
+		fill:none;
+		stroke:#000000;
+		stroke-width:0.1;
+		stroke-dasharray:200px;
+		stroke-dashoffset:0;
+		animation: rollupLc 1s forwards ;
+	}
+	@keyframes rollupLa{
+		0%{
+			stroke-dashoffset:25px;			
+		}100%{
+			stroke-dashoffset:0px;			
+	}}	
+	@keyframes rollupLb{
+		0%{
+			stroke-dashoffset:20px;			
+		}100%{
+			stroke-dashoffset:0px;			
+	}}	
+	@keyframes rollupLc{
+		0%{
+			stroke-dashoffset:200px;			
+		}100%{
+			stroke-dashoffset:0px;			
+	}}	
+
+
+
+	.rollupSombra{
+		clip-path:url(#SVGID_2_);
+		fill:url(#SVGID_3_);
+		opacity:0;
+		animation: rollupCa 1s forwards 1.5s;
+	}
+	.rollupbtn{
+		fill-rule:evenodd;
+		clip-rule:evenodd;
+		fill:#EBECEC;
+		opacity:0;
+		animation: rollupCa 1s forwards 1.5s;
+	}
+	.rollupsombraout{
+		fill:#C5C6C6;
+		opacity:0;
+		animation: rollupCa 1s forwards 1.5s;
+	}
+	@keyframes rollupCa{
+		0%{
+			opacity:0;			
+		}100%{
+			opacity:1;
+	}}	
+
+
+	
+	.rollupimg{
+		fill-rule:evenodd;clip-rule:evenodd;
+		opacity:0;
+		animation: rollupCb 1s forwards 1s;
+	}
+	
+	.rollupcolora{
+		fill:#999999;
+		opacity:0;
+		animation: rollupCb 1s forwards 1s;
+	}	
+	.rollupcolorb{		
+		fill:#FEFEFE;
+		opacity:0;
+		animation: rollupCb 1s forwards 1s;
+	}
+	.rollupcolorba{
+		fill:#FF0000;
+		opacity:0;
+		animation: rollupCb 1s forwards 1s;
+	}
+	.rollupcolorbb{
+		fill:#FF6600;
+		opacity:0;
+		animation: rollupCb 1s forwards 1s;
+	}
+	.rollupcolorbc{
+		fill:#FFFF00;
+		opacity:0;
+		animation: rollupCb 1s forwards 1s;
+	}
+	.rollupFondo{
+		fill:#00FF00;
+		opacity:0;		
+	}
+	@keyframes rollupCb{
+		0%{
+			opacity:0;			
+		}100%{
+			opacity:1;
+	}}	
+]]>
+</style>
+<rect x="0.3" y="0.1" class="rollupFondo" width="146.6" height="146.2"/>
+<g>
+	<path class="rollupbtn" d="M54.7,2.3c30.1,0,54.5,24.4,54.5,54.5c0,30.1-24.4,54.5-54.5,54.5c-30.1,0-54.5-24.4-54.5-54.5
+		C0.3,26.7,24.7,2.3,54.7,2.3"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M39.8,96.5l13.7,14.2c26.2-1.3,44.8-13.7,52.9-41.4L65.7,25.3L39.8,96.5z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="44.4521" y1="43.8252" x2="101.7222" y2="92.1352">
+			<stop  offset="0" style="stop-color:#C5C6C6"/>
+			<stop  offset="1" style="stop-color:#EBECEC"/>
+		</linearGradient>
+		<rect x="39.8" y="25.3" class="rollupSombra" width="66.6" height="85.3"/>
+	</g>
+	<path class="rollupsombraout" d="M54.7,111.2c30.1,0,54.5-24.4,54.5-54.5c0-22.5-13.6-41.7-33-50.1c18.1,8.9,30.5,27.4,30.5,48.9
+		c0,7.7-1.6,15.1-4.5,21.8c0,0,0,0,0,0c-5.6,13.9-15.4,23.4-29.3,28.6c-4.6,1.9-9.4,3.1-14.5,3.7c-2,0.2-4.1,0.3-6.2,0.3
+		c-7.6,0-14.9-1.6-21.4-4.4C38,109.2,46.2,111.2,54.7,111.2"/>
+</g>
+<polygon class="rollupcolorb" points="43,92.4 64.6,82.6 64.6,26 42.4,15.8 "/>
+<g>
+	<path class="rollupcolorbb" d="M56.9,54c1.2,0,2.8,0.4,3.8,0.9c1,0.6,1.6,1.4,1.6,2.2c0,0.8-0.5,1.6-1.4,2.2c-0.9,0.6-2.1,1.1-3.4,1.3
+		c0.1,0-0.4,0,0.5,0c0.8-0.1,2.8-0.6,3.7-1.3c1-0.7,1.6-1.6,1.6-2.5c0-0.9-0.6-1.7-1.5-2.4c-1-0.6-2.3-1-3.8-1c-1.5,0-2.8,0.4-3.7,1
+		C54.9,54.2,55.7,54,56.9,54"/>
+	<path class="rollupcolorbb" d="M45,49c1.2,0.1,2.4,0.1,3.6,0.2c0,0.3,0,0.6,0,0.9c-0.3,0-0.6,0-0.9,0c0,0.9,0,1.8,0.1,2.7
+		c0,0.9,0.1,1.8,0.1,2.7c-0.6,0-1.2,0-1.8,0c0-0.9-0.1-1.8-0.1-2.8c0-0.9-0.1-1.8-0.1-2.8c-0.3,0-0.6,0-0.9,0C45,49.6,45,49.3,45,49
+		"/>
+	<path class="rollupcolorbb" d="M49.2,49.2c0.7,0,1.3,0.1,2,0.1c0,0.9,0,1.7,0,2.6c0,0.9,0,1.7,0.1,2.6c0.2,0,0.4,0,0.6,0
+		c0-0.9,0-1.7-0.1-2.6c0-0.9,0-1.7,0-2.6c0.6,0,1.3,0.1,1.9,0.1c0,0.7,0,1.4,0,2.2c0,0.7,0,1.4,0,2.2c0,0.9-0.5,1.6-1.1,1.6
+		c-0.7,0-1.5,0-2.2,0c-0.6,0-1.2-0.7-1.2-1.7c0-0.8,0-1.5-0.1-2.3C49.2,50.7,49.2,50,49.2,49.2"/>
+	<path class="rollupimg" d="M46.1,56.7c0.2,0,0.4,0,0.5,0c0,1.2,0.1,2.4,0.1,3.7c-0.2,0-0.4,0-0.5,0C46.2,59.1,46.2,57.9,46.1,56.7"/>
+	<path class="rollupimg" d="M46.9,56.6c0.2,0,0.3,0,0.5,0c0,0,0,0,0,0c0.2,0,0.3,0,0.5,0c0.3,0,0.6,0.2,0.7,0.6c0-0.2,0-0.4,0-0.6
+		c0.2,0,0.4,0,0.6,0c0.5,0,0.8,0.5,0.9,1.2c0,0.8,0,1.5,0.1,2.3c-0.2,0-0.3,0-0.5,0c0-0.7,0-1.4-0.1-2.1c0-0.4-0.2-0.7-0.5-0.7
+		c-0.2,0-0.3,0-0.5,0c0.1,0.2,0.1,0.3,0.1,0.5c0,0.8,0.1,1.6,0.1,2.3c-0.2,0-0.3,0-0.5,0c0-0.7,0-1.5-0.1-2.2c0-0.4-0.2-0.7-0.5-0.7
+		c-0.1,0-0.3,0-0.4,0c0,1,0.1,1.9,0.1,2.9c-0.2,0-0.3,0-0.5,0C47,59.1,46.9,57.9,46.9,56.6"/>
+	<path class="rollupimg" d="M58.2,56.3c0.2,0,0.3,0,0.5,0c0,0,0,0,0,0c0.3,0,0.5,0,0.8,0c0.5,0,0.8,0.5,0.8,1.1c0,0.7,0,1.4,0,2
+		c-0.2,0-0.3,0-0.5,0c0-0.6,0-1.3,0-1.9c0-0.3-0.2-0.6-0.5-0.6c-0.2,0-0.4,0-0.6,0c0,0.8,0,1.7,0,2.5c-0.2,0-0.3,0-0.5,0
+		C58.2,58.4,58.2,57.4,58.2,56.3"/>
+	<path class="rollupimg" d="M51.2,56.5c0.1,0,0.3,0,0.4,0c0.6,0,1,0.6,1,1.4c0,1,0,2,0.1,3c-0.2,0-0.4,0-0.5,0c0-0.6,0-1.1,0-1.7
+		c0-0.4,0-0.9,0-1.3c0-0.4-0.2-0.7-0.5-0.7c-0.1,0-0.3,0-0.4,0c-0.3,0-0.5,0.3-0.5,0.7c0,0.2,0,0.4,0,0.5c0.4,0,0.7,0,1.1-0.1
+		c0,0.3,0,0.5,0,0.8c-0.4,0-0.7,0-1.1,0.1c-0.2,0-0.3,0-0.5,0c0,0-0.1,0-0.1,0c0-0.4,0-0.9,0-1.3C50.2,57.2,50.7,56.5,51.2,56.5"/>
+	<path class="rollupimg" d="M52.9,58.5c0-0.2,0-0.4,0-0.6c0-0.8,0.4-1.5,1-1.5c0.5,0,1.1,0,1.6,0c0,0.3,0,0.5,0,0.8c-0.5,0-1.1,0-1.6,0.1
+		c-0.3,0-0.5,0.3-0.5,0.7c0,0.2,0,0.4,0,0.6c0,0.4,0.2,0.7,0.5,0.7c0.4,0,0.7,0,1.1-0.1c0-0.5,0-1,0-1.6c0.2,0,0.4,0,0.5,0
+		c0,0.5,0,1,0,1.6c0,0.1,0,0.3,0,0.4c0,0.1,0,0.2,0,0.3c-0.5,0-1.1,0.1-1.6,0.1C53.4,59.9,53,59.3,52.9,58.5"/>
+	<path class="rollupimg" d="M57.8,58.1c-0.4,0-0.8,0-1.2,0.1c-0.4,0-0.4,0.9,0,0.9c0.4,0,0.8-0.1,1.2-0.1c0,0.2,0,0.5,0,0.7
+		c-0.4,0-0.9,0.1-1.3,0.1c-0.6,0-0.9-1.1-0.4-1.7c0,0,0.1-0.2,0-0.3c-0.5-0.4-0.3-1.4,0.3-1.4c0.5,0,1,0,1.5,0c0,0.2,0,0.4,0,0.6
+		c-0.4,0-0.9,0-1.3,0c-0.3,0-0.3,0.6,0,0.6c0.4,0,0.9,0,1.3-0.1C57.8,57.6,57.8,57.8,57.8,58.1"/>
+	<path class="rollupcolorbb" d="M51.5,38.9c-2.6,1.1-4.9,2.8-6.9,5V44h0.2c1.2-1.1,2.5-2,3.9-2.7L51.5,38.9z"/>
+	<path class="rollupcolorbb" d="M53.1,39.7c3.9-0.8,7.9-0.2,11.5,1.8v-2.4C60.8,37.9,56.8,38.1,53.1,39.7"/>
+	<path class="rollupcolorba" d="M64.6,39.1L64.6,39.1L64.6,39.1c-4.2-1.9-8.8-2-13.1-0.2c-0.9,0.7-2.1,1.5-2.8,2.4c1.4-0.7,2.9-1.3,4.4-1.6
+		C56.7,38.2,60.8,37.9,64.6,39.1"/>
+	<path class="rollupcolorbc" d="M47,44c1.8-1.9,3.9-3.3,6.1-4.3c-1.5,0.3-3,0.8-4.4,1.6c-0.8,0.8-1.6,1.7-2.3,2.7H47z"/>
+	<path class="rollupcolorbc" d="M51.5,38.9c4.2-1.7,8.9-1.7,13,0.2v-2.9C60,35.2,55.4,36.2,51.5,38.9"/>
+	<path class="rollupcolorbb" d="M56,72.9c2.6-1.1,4.9-2.8,6.9-5v-0.1h-0.2c-1.2,1.1-2.5,2-3.9,2.7L56,72.9z"/>
+	<path class="rollupcolorbb" d="M54.4,72.1c-3.9,0.8-7.9,0.2-11.5-1.8v2.4C46.7,73.9,50.8,73.7,54.4,72.1"/>
+	<path class="rollupcolorba" d="M42.9,72.7L42.9,72.7L42.9,72.7c4.2,1.9,8.8,2,13.1,0.2c0.9-0.7,2.1-1.5,2.8-2.4c-1.4,0.7-2.9,1.3-4.4,1.6
+		C50.8,73.7,46.7,73.9,42.9,72.7"/>
+	<path class="rollupcolorbc" d="M60.6,67.9c-1.8,1.9-3.9,3.3-6.1,4.3c1.5-0.3,3-0.8,4.4-1.6c0.8-0.8,1.6-1.7,2.3-2.7H60.6z"/>
+	<path class="rollupcolorbc" d="M56,72.9c-4.2,1.7-8.9,1.7-13-0.2v2.9C47.5,76.6,52.1,75.6,56,72.9"/>
+</g>
+<g>
+	<path class="rollupbtn" d="M43,92.4l-0.6-76.6L64.6,26v56.7L43,92.4z M67.2,85.5L46.5,97.8l-0.2-2.4l-1.8-2.7l-2.6-0.4l-0.5-77.2l1-0.6
+		c8.9,4.2,14.2,6.7,23.3,10.8L65,26v56.7l1,0.3l1.2,1.2V85.5z"/>
+	<polygon class="rollupcolora" points="46.5,97.8 46.3,95.4 44.5,92.7 41.9,92.3 39.8,94.2 39.8,96.4 	"/>
+</g>
+<path class="rollupLc" d="M43,92.4l-0.6-76.6L64.6,26v56.7L43,92.4z M67.2,85.5L46.5,97.8l-0.2-2.4l-1.8-2.7l-2.6-0.4l-0.5-77.2l1-0.6
+	c8.9,4.2,14.2,6.7,23.3,10.8L65,26v56.7l1,0.3l1.2,1.2V85.5z"/>
+<polygon class="rollupLb" points="46.5,97.8 46.3,95.4 44.5,92.7 41.9,92.3 39.8,94.2 39.8,96.4 "/>
+<line class="rollupLa" x1="66" y1="82.9" x2="44.5" y2="92.7"/>
+<line class="rollupLa" x1="67.2" y1="84.2" x2="46.3" y2="95.4"/>
+</svg>
