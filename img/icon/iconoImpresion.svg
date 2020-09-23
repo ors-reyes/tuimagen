@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="229px" height="211px" viewBox="0 0 229 211" style="enable-background:new 0 0 229 211;" xml:space="preserve">
+
+<linearGradient id="gradImpre" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(45)">
+	<stop offset="10%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+	<stop offset="100%" style="stop-color:rgb(220,220,220);stop-opacity:1" />
+</linearGradient>
+<style type="text/css">
+<![CDATA[
+	.impreLine{
+		fill:none;
+		stroke:black;
+		stroke-width:0.3;
+		stroke:transparent;
+		stroke-dasharray:1400px;
+		stroke-dashoffset:0;
+		animation: CarLine 1s forwards 8s;
+	}
+	@keyframes CarLine{
+		0%{
+			stroke-dashoffset:1400px;
+			stroke:#000000;	
+		}90%{
+			stroke-dashoffset:0px;
+			stroke:#000000;
+		}100%{
+			stroke-dashoffset:0px;
+			stroke:#000000;
+	}}	
+	.impreSombra{
+		fill-rule:evenodd;
+		clip-rule:evenodd;
+		fill:#B3B3B3;
+		opacity:0;
+		animation: CarColor 1s forwards 8s;
+	}
+	.impreAdornoColor{
+		fill-rule:evenodd;
+		clip-rule:evenodd;
+		fill:black;
+		opacity:0;
+		animation: CarColor 1s forwards 8s;
+	}
+	.impreDegColor{
+		fill-rule:evenodd;
+		clip-rule:evenodd;
+		fill: url(#gradImpre);
+		opacity:0;
+		animation: CarColor 1s forwards 8s;
+	}
+	@keyframes CarColor{
+		0%{
+			opacity:0;
+		}90%{
+			opacity:0;
+		}100%{
+			opacity:1;
+	}}
+]]>
+</style>
+<path class="impreSombra" d="M6.3,35c70.9,0,141.7,0,212.6,0c3.4,0,6.2,2.8,6.2,6.2v46.6c0,8.4-15.4,8.4-15.4,0v-3.6h-9.4v70.8h9.2v6.2H185
+	v-6.2h9.2V84.3h-18.6v92.4h-6.2V62.7H55.5v113.9h-6.2V84.3H31v70.8h9.2v6.2H15.6v-6.2h9.2V84.3h-9.4v3.6c0,8.4-15.4,8.4-15.4,0V41.2
+	C0.1,37.8,2.9,35,6.3,35"/>
+<path class="impreDegColor" d="M8.1,36.4c70.9,0,141.7,0,212.6,0c3.4,0,6.2,2.8,6.2,6.2v46.6c0,8.4-15.4,8.4-15.4,0v-3.6h-9.4v70.8h9.2v6.2
+	h-24.6v-6.2h9.2V85.6h-18.6V178h-6.2V64.1H57.3V178h-6.2V85.6H32.8v70.8h9.2v6.2H17.4v-6.2h9.2V85.6h-9.4v3.6c0,8.4-15.4,8.4-15.4,0
+	V42.6C1.9,39.2,4.7,36.4,8.1,36.4z"/>
+<path class="impreLine" d="M8.1,36.4c70.9,0,141.7,0,212.6,0c3.4,0,6.2,2.8,6.2,6.2v46.6c0,8.4-15.4,8.4-15.4,0v-3.6h-9.4v70.8h9.2v6.2
+	h-24.6v-6.2h9.2V85.6h-18.6V178h-6.2V64.1H57.3V178h-6.2V85.6H32.8v70.8h9.2v6.2H17.4v-6.2h9.2V85.6h-9.4v3.6c0,8.4-15.4,8.4-15.4,0
+	V42.6C1.9,39.2,4.7,36.4,8.1,36.4z"/>
+<rect x="13.6" y="41.6" class="impreAdornoColor" width="7.5" height="14"/>
+<rect x="22.8" y="41.6" class="impreAdornoColor" width="7.5" height="14"/>
+<rect x="32" y="41.6" class="impreAdornoColor" width="7.5" height="14"/>
+<rect x="41.2" y="41.6" class="impreAdornoColor" width="7.5" height="14"/>
+<path class="impreAdornoColor" d="M23.9,64.1h27.6v9.2H17.6v-3C17.6,66.9,20.5,64.1,23.9,64.1"/>
+<path class="impreAdornoColor" d="M204.9,64.1h-27.6v9.2h33.9v-3C211.2,66.9,208.3,64.1,204.9,64.1"/>
+<path class="impreAdornoColor" d="M97.6,91.7c4.8,0,8.7,3.8,8.7,8.4c0,4.6-3.9,8.4-8.7,8.4c-4.8,0-8.7-3.8-8.7-8.4C88.9,95.5,92.8,91.7,97.6,91.7
+	"/>
+<polygon class="impreAdornoColor" points="60.4,156.4 166.8,156.4 126.6,107.2 107.2,132.7 95.8,124.1 "/>
+</svg>

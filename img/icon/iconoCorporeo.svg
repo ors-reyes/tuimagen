@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="corporeoCinco" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="189.4px" height="117.4px" viewBox="0 0 189.4 117.4" style="enable-background:new 0 0 189.4 117.4;"
+	 xml:space="preserve">
+<linearGradient id="gradCor" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(45)">
+	<stop offset="10%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+	<stop offset="100%" style="stop-color:rgb(220,220,220);stop-opacity:1" />
+</linearGradient>
+<style type="text/css">
+<![CDATA[
+	.corporeoCincoUno{
+		fill-rule:evenodd;
+		clip-rule:evenodd;
+		fill:#D9DADA;
+		opacity:0;
+		animation: corporeoCincoSVG 1s forwards 2s;
+	}
+	.corporeoCincoDos{
+		fill-rule:evenodd;
+		clip-rule:evenodd;
+		fill:#B2B3B3;
+		opacity:0;
+		animation: corporeoCincoSVG 1s forwards 2s;
+	}
+	.corporeoCincoTres{
+		fill-rule:evenodd;
+		clip-rule:evenodd;
+		fill: url(#gradCor);
+		opacity:0;
+		animation: corporeoCincoSVG 1s forwards 2s;
+	}
+	.corporeoCincoCuatro{
+		fill-rule:evenodd;
+		clip-rule:evenodd;
+		fill:#C5C6C6;opacity:0;
+		animation: corporeoCincoSVG 1s forwards 2s;
+	}
+	@keyframes corporeoCincoSVG{
+	0%{
+	}80%{opacity:0;	
+	}100%{opacity:1;
+	}}
+
+	.corporeoCuatro{
+		fill:none;
+		stroke:transparent;
+		stroke-width:0.3;
+		stroke-dasharray:100px;
+		stroke-dashoffset:0;
+		animation: corporeoCuatroSVG 1s forwards 2s;
+	}
+	@keyframes corporeoCuatroSVG{
+	0%{stroke-dashoffset:100px;stroke:#000000;	
+	}60%{stroke-dashoffset:100px;stroke:#000000;
+	}80%{stroke-dashoffset:0px;}80%{}90%{}100%
+	{stroke:#000000;}}
+
+	.corporeoTres{
+		fill:none;
+		stroke:transparent;
+		stroke-width:0.3;
+		stroke-dasharray:190px;
+		stroke-dashoffset:0;
+		animation: corporeoTresSVG 1s forwards 2s;
+	}
+	@keyframes corporeoTresSVG{
+	0%{stroke-dashoffset:190px;stroke:#000000;
+	}40%{stroke-dashoffset:190px;stroke:#000000;
+	}60%{stroke-dashoffset:0px;stroke:#000000;
+	}100%{stroke:#000000;	
+	}}
+
+	.corporeoDos{
+		fill:none;
+		stroke:transparent;
+		stroke-width:0.3;
+		stroke-dasharray:80px;
+		stroke-dashoffset:0;
+		animation: corporeoDosSVG 1s forwards 2s;
+	}
+	@keyframes corporeoDosSVG{
+	0%{stroke-dashoffset:80px;stroke:#000000;
+	}20%{stroke-dashoffset:80px;stroke:#000000;
+	}40%{stroke-dashoffset:0px;stroke:#000000;
+	}100%{stroke:#000000;
+	}}
+
+	.corporeoUnoA{
+		fill:none;
+		stroke:transparent;
+		stroke-width:0.3;
+		stroke-dasharray:240px;
+		stroke-dashoffset:0;
+		animation: corporeoUnoASVG 1s forwards 2s;
+	}
+	.corporeoUnoB{
+		fill:none;
+		stroke:transparent;
+		stroke-width:0.3;
+		stroke-dasharray:80px;
+		stroke-dashoffset:0;
+		animation: CorporeoUnoBSVG 1s forwards 2s;
+	}
+	@keyframes corporeoUnoASVG{
+	0%{stroke-dashoffset:240px;stroke:#000000;
+	}20%{stroke-dashoffset:0px;stroke:#000000;
+	}100%{stroke:#000000;
+	}}
+	@keyframes CorporeoUnoBSVG{
+	0%{stroke-dashoffset:80px;stroke:#000000;
+	}10%{stroke-dashoffset:0px;stroke:#000000;
+	}20%{}30%{}40%{}50%{}60%{}70%{}80%{}90%{	
+	}100%{stroke:#000000;
+	}}
+]]>
+</style>
+<path id="corporeoCinco29" class="corporeoCincoTres" d="M22.5,32.1L2.7,86.7l16.4,9l2.7-11l2.6,1.6l3.2,2l12.8,7.8l1.7,10.2l17.9,9.2l-18-72.2
+	L22.5,32.1z M37.5,76.3l1.3,6.5l-14.3-8.7l7.2-26.3l1.3,6.6l3.3,16.3L37.5,76.3z"/>
+<polygon id="corporeoCinco28" class="corporeoCincoUno" points="22.5,32.1 41.8,43.3 45.2,41.5 27.9,31.1 25.9,29.9 "/>
+<polygon id="corporeoCinco27" class="corporeoCincoUno" points="41.8,43.3 59.8,115.5 63.3,113.7 62.4,109.9 45.4,42.2 45.2,41.5 "/>
+<polygon id="corporeoCinco26" class="corporeoCincoUno" points="29.2,72.2 33.2,54.5 31.8,47.9 24.6,74.2 "/>
+<polygon id="corporeoCinco25" class="corporeoCincoUno" points="37.5,76.3 31.1,73.2 29.2,72.2 24.6,74.2 38.9,82.8 "/>
+<polygon id="corporeoCinco24" class="corporeoCincoUno" points="23.1,91 24.3,86.2 21.7,84.6 19,95.6 22.3,94.1 "/>
+<polygon id="corporeoCinco23" class="corporeoCincoDos" points="27.9,31.1 45.2,41.5 45.4,42.2 56,35.7 37.6,25.1 "/>
+<polygon id="corporeoCinco22" class="corporeoCincoDos" points="45.4,42.2 62.4,109.9 74.1,103.8 56,35.7 "/>
+<polygon id="corporeoCinco21" class="corporeoCincoCuatro" points="37.5,76.3 36.4,70.9 31.1,73.2 "/>
+<polygon id="corporeoCinco20" class="corporeoCincoCuatro" points="27.5,88.2 24.3,86.2 23.1,91 "/>
+<path id="corporeoCinco19" class="corporeoCincoTres" d="M101.6,69.2l8.2-23.2l1.3,5.6l4.6,20.1l1.2,5.2L101.6,69.2z M99.8,28.5L81,81.1l15.4,8.5
+	l2.7-9.6l2.4,1.4l18.1,10.9l2.3,12.1l15.6,7.9l-18.9-73.3L99.8,28.5z"/>
+<polygon id="corporeoCinco18" class="corporeoCincoUno" points="99.1,80 96.4,89.6 99.3,88.4 101.5,81.4 "/>
+<polygon id="corporeoCinco17" class="corporeoCincoUno" points="101.6,69.2 116.9,76.9 115.7,71.7 106.8,67.4 "/>
+<polygon id="corporeoCinco16" class="corporeoCincoUno" points="101.6,69.2 106.8,67.4 111.1,51.7 109.9,46 "/>
+<polygon id="corporeoCinco15" class="corporeoCincoUno" points="99.8,28.5 118.6,39.1 121.6,37.6 104.1,27.3 102.8,26.6 "/>
+<polygon id="corporeoCinco14" class="corporeoCincoUno" points="118.6,39.1 137.5,112.3 140.4,110.9 139.7,108.3 121.7,38 121.6,37.6 "/>
+<polygon id="corporeoCinco13" class="corporeoCincoDos" points="135.7,11.6 153.7,20.9 167.4,13.6 149.6,3.9 "/>
+<polygon id="corporeoCinco12" class="corporeoCincoDos" points="153.7,20.9 170.5,87.5 184.8,79.2 167.4,13.6 "/>
+<polygon id="corporeoCinco11" class="corporeoCincoCuatro" points="136.6,14 152.3,21.7 153.5,26.3 159,47.8 161,55.8 165,71.5 168.3,84.6 
+	154.7,77.8 152.9,67.7 136.1,59.4 134.2,67.9 128.8,65.5 129.3,67.5 134.9,70 136.8,61.2 151.6,68.4 153.5,79.1 170.5,87.5 
+	153.7,20.9 135.7,11.6 123.2,43.4 124,46.8 "/>
+<path id="corporeoCinco10" class="corporeoCincoDos" d="M140.4,47.2l4.1-11.3l1.9,7.8l1.8,7.4L140.4,47.2z M144.5,31.9l-5.6,15.8l7.3,3.6l3.2,1.6
+	L144.5,31.9z"/>
+<polygon id="corporeoCinco9" class="corporeoCincoDos" points="144.5,31.9 149.4,52.9 159,47.8 153.5,26.3 "/>
+<polygon id="corporeoCinco8" class="corporeoCincoDos" points="141.1,55.4 132.9,50.8 126.5,56.5 128.8,65.5 134.2,67.9 136.1,59.4 "/>
+<polygon id="corporeoCinco7" class="corporeoCincoDos" points="165,71.5 154.7,77.8 168.3,84.6 "/>
+<polygon id="corporeoCinco6" class="corporeoCincoDos" points="154.7,77.8 165,71.5 162.4,61.4 152.9,67.7 "/>
+<polygon id="corporeoCinco5" class="corporeoCincoDos" points="152.2,51.4 161,55.8 159,47.8 "/>
+<polygon id="corporeoCinco4" class="corporeoCincoDos" points="140.4,47.2 146.4,43.8 144.5,35.9 "/>
+<polygon id="corporeoCinco3" class="corporeoCincoDos" points="146.2,51.3 138.9,47.7 144.5,31.9 153.5,26.3 152.3,21.7 144.8,18 132.9,50.8 
+	141.1,55.4 "/>
+<polygon id="corporeoCinco2" class="corporeoCincoDos" points="132.9,50.8 144.8,18 136.6,14 124,46.8 126.5,56.5 "/>
+<polygon id="corporeoCinco1" class="corporeoCincoDos" points="146.2,51.3 141.1,55.4 136.1,59.4 152.8,67.6 152.9,67.7 162.5,61.5 161,55.8 
+	152.2,51.4 149.4,52.9 "/>
+
+<polyline id="corporeoCuatro13" class="corporeoCuatro" points="62.4,109.9 74.1,103.8 56,35.7 45.4,42.2 "/>
+<polyline id="corporeoCuatro12" class="corporeoCuatro" points="27.9,31.1 37.6,25.1 56,35.7 "/>
+<polyline id="corporeoCuatro11" class="corporeoCuatro" points="135.7,11.6 149.6,3.9 167.4,13.6 153.7,20.9 "/>
+<polyline id="corporeoCuatro10" class="corporeoCuatro" points="167.4,13.6 184.8,79.2 170.5,87.5 "/>
+<line id="corporeoCuatro9" class="corporeoCuatro" x1="154.7" y1="77.8" x2="165" y2="71.5"/>
+<path id="corporeoCuatro8" class="corporeoCuatro" d="M152.9,67.7c0,0,8.9-6.1,9.2-6.2"/>
+<line id="corporeoCuatro7" class="corporeoCuatro" x1="136.1" y1="59.4" x2="146.2" y2="51.3"/>
+<line id="corporeoCuatro6" class="corporeoCuatro" x1="152.3" y1="51.4" x2="161" y2="55.8"/>
+<path id="corporeoCuatro5" class="corporeoCuatro" d="M138.9,47.7l10.5,5.2 M153.5,26.3l-9,5.6"/>
+<line id="corporeoCuatro4" class="corporeoCuatro" x1="149.4" y1="52.9" x2="159" y2="47.8"/>
+<line id="corporeoCuatro3" class="corporeoCuatro" x1="140.4" y1="47.2" x2="146.4" y2="43.8"/>
+<polyline id="CorporeoCuatro2" class="corporeoCuatro" points="144.6,18.4 132.9,50.8 141.1,55.4 "/>
+<line id="corporeoCuatro1" class="corporeoCuatro" x1="132.9" y1="50.8" x2="126.5" y2="56.4"/>
+
+<polyline id="corporeoTres4" class="corporeoTres" points="123.2,43.7 135.7,11.6 153.7,20.9 170.5,87.5 153.5,79.1 151.6,68.4 136.8,61.2 
+	134.9,70 129.2,67.3 "/>
+<polyline id="corporeoTres3" class="corporeoTres" points="124,47 136.6,14 152.3,21.7 168.3,84.6 154.7,77.8 152.9,67.7 136.1,59.4 
+	134.2,67.9 128.7,65 "/>
+<polygon id="corporeoTres2" class="corporeoTres" points="144.5,31.9 138.9,47.7 149.4,52.9 "/>
+<polygon id="corporeoTres1" class="corporeoTres" points="144.5,35.9 140.4,47.2 148.1,51.2 "/>
+
+<polyline id="corporeoDos12" class="corporeoDos" points="22.5,32.1 25.9,29.9 45.2,41.5 41.8,43.3 "/>
+<polyline id="corporeoDos11" class="corporeoDos" points="59.8,115.5 63.3,113.7 45.2,41.5 "/>
+<polyline id="corporeoDos10" class="corporeoDos" points="19,95.6 22.3,94.1 24.3,86.2 "/>
+<line id="corporeoDos9" class="corporeoDos" x1="27.5" y1="88.2" x2="23.1" y2="91"/>
+<polyline id="corporeoDos8" class="corporeoDos" points="24.6,74.2 29.2,72.2 33.2,54.5 "/>
+<line id="corporeoDos7" class="corporeoDos" x1="37.5" y1="76.3" x2="29.2" y2="72.2"/>
+<line id="corporeoDos6" class="corporeoDos" x1="31.1" y1="73.2" x2="36.4" y2="70.9"/>
+<polyline id="corporeoDos5" class="corporeoDos" points="101.5,81.4 99.3,88.4 96.4,89.6 "/>
+<polyline id="corporeoDos4" class="corporeoDos" points="99.8,28.5 102.8,26.6 121.6,37.6 118.6,39.1 "/>
+<polyline id="corporeoDos3" class="corporeoDos" points="101.6,69.2 106.8,67.4 111.1,51.7 "/>
+<line id="corporeoDos2" class="corporeoDos" x1="115.7" y1="71.7" x2="106.8" y2="67.4"/>
+<polyline id="corporeoDos1" class="corporeoDos" points="121.6,37.6 140.4,110.9 137.5,112.3 "/>
+
+<polygon id="CorporeoUno4" class="corporeoUnoA" points="19,95.6 2.7,86.7 22.5,32.1 41.8,43.3 59.8,115.5 42,106.3 40.3,96.1 21.7,84.6 "/>
+<polygon id="CorporeoUno3" class="corporeoUnoB" points="24.6,74.2 38.9,82.8 31.8,47.9 "/>
+<polygon id="CorporeoUno2" class="corporeoUnoA" points="96.4,89.6 81,81.1 99.8,28.5 118.6,39.1 137.5,112.4 121.9,104.5 119.6,92.4 
+	99.1,80 "/>
+<polygon id="CorporeoUno1" class="corporeoUnoB" points="101.6,69.2 116.9,76.9 109.9,46 "/>
+
+</svg>
