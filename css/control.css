@@ -1,0 +1,51 @@
+.botonAct{		animation: botonAct 0.5s forwards;}
+@keyframes botonAct {
+  0%{display:block;opacity:1;width:90%;height:90%;
+  }100%{display:none;opacity:0;width:0;
+}}
+.botonInAct{		animation: botonInAct 0.5s forwards;}
+@keyframes botonInAct {
+  0%{display:none;opacity:0;width:0;
+  }100%{display:block;opacity:1;width:90%;height:90%;
+}}
+
+.tituloAct{		animation: tituloAct 0.5s forwards;}
+@keyframes tituloAct {
+  0%{width:0%
+  }100%{width:70%;
+}}
+.tituloInAct{		animation: tituloInAct 0.5s forwards;}
+@keyframes tituloInAct {
+  0%{width:70%;
+  }100%{width:0%;
+}}
+
+.iconoAct{		animation: iconoAct 0.5s forwards;}
+@keyframes iconoAct {
+  0%{opacity:0;
+  	grid-column:2/6;
+	grid-row:3/5;
+  }100%{opacity:1;
+  	grid-column:2/6;
+	grid-row:3/5;
+}}
+.iconoInAct{		animation: iconoInAct 0.5s forwards;}
+@keyframes iconoInAct {
+  0%{opacity:1;
+  	grid-column:2/6;
+	grid-row:3/5;
+  }100%{opacity:0;
+  	grid-column:2/6;
+	grid-row:3/5;
+}}
+
+.contenidoAct{		animation: contenidoAct 0.5s forwards;}
+@keyframes contenidoAct {
+  0%{opacity:0;
+  }100%{opacity:1;
+}}
+.contenidoInAct{		animation: contenidoInAct 0.5s forwards;}
+@keyframes contenidoInAct {
+  0%{opacity:1;  	
+  }100%{opacity:0;  	
+}}

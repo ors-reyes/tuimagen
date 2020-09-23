@@ -1,0 +1,92 @@
+.galeria {
+	position: absolute;	
+	width:100%;
+	height: 50vh;
+	background-color: black;			
+	left: 50%;
+	transform: translate(-50%, 10%);
+	overflow: hidden;	
+}
+.imagenGal {
+	position: absolute;
+	height: 100%;
+	visibility: hidden;
+	opacity: 0;
+	display: none;
+	left: 50%;
+	transform: translateX(-50%);
+	transition: all 0.5s;
+}
+.imagenGal img {
+	height: 100%;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	transition: all 0.5s;
+}
+.texto {
+	position: absolute;
+	width: 100%;
+	top: 0%;
+	left: 50%;
+	transform: translateX(-50%);
+	transition: all 0.5s;
+}
+.anterior{
+	position: absolute;
+	width: 20%;
+	height: 50vh;
+	background-color: transparent;	
+	z-index: 10;
+	cursor: pointer;
+}
+.siguiente {
+	position: absolute;	
+	width: 20%;
+	height: 50vh;
+	background-color: transparent;	
+	left: 80%;
+	z-index: 10;
+	cursor: pointer;
+}
+.boton{
+	position: absolute;
+	left: 100%;
+	transform: translateX(-80px);
+	z-index: 20;
+	background-color: rgba(0,0,0,.1);
+	cursor: pointer;
+}
+.puntos {
+	position: absolute;
+	top: 90%;
+	width: 100%;
+	text-align: center;
+	z-index: 60;
+	opacity: 0.5;	
+}
+.punto {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-color: #FFFFFF;
+	border-radius: 50%;
+	margin-right: 15px;
+	z-index: 20;
+}
+.punto:hover {
+	cursor: pointer;
+	background-color: #FF6600;
+}
+.boton a:hover {
+	color: #FF6600;
+}
+.actual {
+	visibility: visible;
+	opacity: 1;
+	display: block;
+	transition: visibility 1s, opacity 1s;
+}
+.activo {
+	background-color: #FF6600;
+}

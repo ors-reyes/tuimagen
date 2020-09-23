@@ -1,1 +1,15 @@
-
+#contenidoImpresion, #contenidoCarteleria, #contenidoHerreria, #contenidoCorporeo, #contenidoPloter{
+	opacity:0;
+	border-radius:5px;
+	background-color:rgba(245,245,245,0.5);
+	box-shadow:0.5px 1px 1px rgba(0,0,0,0.1);
+	z-index:40;
+	transition: all 0.3s;
+	line-height: 1.3em;
+	font-size: 3vw;
+	text-align: left;	
+}
+#contenidoImpresion strong, #contenidoCarteleria strong, #contenidoHerreria strong, #contenidoCorporeo strong, #contenidoPloter strong{	
+	font-size: 4vw;
+	transform: translateY(-20%);
+}
