@@ -1,0 +1,24 @@
+.fondo{fill-rule:evenodd;clip-rule:evenodd;fill:#000000;}
+.tu{fill:#FF6600;opacity:0;animation: txtcol 0.5s forwards 2.8s;}
+.imagen2{fill:#000;}
+.imagen{fill:#ffffff;opacity:0;animation: txtcol 1s forwards 2.5s;}
+@keyframes txtcol{
+	0%{opacity: 0;		
+	}100%{opacity: 1;
+}}
+.mascara{fill:#000000;}
+.sombra{fill:url(#sombra);animation: txtLine 2s forwards 0s;}
+@keyframes txtLine{
+	0%{transform: translateX(0%);
+	}30%{transform: translateX(40%);
+	}60%{transform: translateX(40%);
+	}100%{transform: translateX(0%);
+}}
+.tituloTextosFont{
+	animation: txtcss 0.8s forwards;	
+}
+@keyframes txtcss{
+	0%{transform: translateX(-300%);opacity: 1;
+	}50%{transform: translateX(30%);opacity: 1;	
+	}100%{transform: translateX(0%);opacity: 1;
+}}
